@@ -1,6 +1,6 @@
 # ToDo_cypress
 
-**Without Docket:**
+**Without Docker:**
 Go to the project folder
 
 1) Install Cypress (2-3 min): npx cypress install
@@ -8,7 +8,7 @@ Go to the project folder
 2) Run tests: npx cypress run
 
 
-**With Docket:**
+**With Docker:**
 Go to the project folder
 
 1) To build: docker build -t cypress-image:1.0.0 .

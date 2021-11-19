@@ -1,5 +1,7 @@
 # ToDo_cypress
 
+To use **npx** comand Node.js version 5.2 or above is required
+
 **Without Docker:**
 Go to the project folder
 
